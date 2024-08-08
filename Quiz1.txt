@@ -1,0 +1,18 @@
+
+Ejercicio 1 
+Automatización de un proceso manual en una empresa
+Escenario:
+Imagina que trabajas en una pequeña empresa que vende productos de limpieza. Actualmente, el proceso de registro de ventas se realiza manualmente, lo que consume tiempo y es propenso a errores. No tienen forma de imprimir un listado de los produtos, ni de registrar las ventas.  Se te ha asignado la tarea de automatizar este proceso utilizando C++.
+
+
+Ejercicio 2
+Gestión de Inventario en una Tienda de Ropa
+Escenario:
+Una tienda de ropa realiza la gestión de su inventario manualmente. El encargado del inventario revisa diariamente el stock de cada producto y registra las siguientes operaciones: Ingreso de nuevas existencias, también realiza las venta de productos y realiza consultas del stock actual
+
+
+Estudie cada caso  y realice lo siguiente
+Identificación de  Variables
+Definir los métodos y funciones (tiene que haber ambas)
+diagrama de flujo
+Desarrollo en C++
